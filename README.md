@@ -9,12 +9,12 @@ any help is welcome.
 
 # Use:
 
-``
-git clone xxx
+```
+git clone https://github.com/Carlos4621/Chip-8.git
 cd Chip-8
 mkdir build
-build cd
-cmake..
+cd build
+cmake ..
 make -j
 ./chip <RomPath>
-``
+```
