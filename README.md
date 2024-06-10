@@ -3,11 +3,11 @@
 This is my first emulator made with the help of: https://austinmorlan.com/posts/chip8_emulator/
 any help is welcome.
 
-#requirements:
+## requirements:
 
 + SFML
 
-## Use:
+# Use:
 
 ``
 git clone xxx
